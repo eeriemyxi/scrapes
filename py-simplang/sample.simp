@@ -1,0 +1,9 @@
+#*if (1 > 2) {
+   print("1 > 2");
+}
+*#
+
+print("Hello world", "hi", "how are you");
+print("Hello world", 123);
+print("Hello world", 123);
+print("Hello world", 123);

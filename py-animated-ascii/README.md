@@ -1,0 +1,2 @@
+- `py-animated-ascii`
+  - A cool animation of an ASCII art I found online. I found it [here](https://www.asciiart.eu/space/other).
